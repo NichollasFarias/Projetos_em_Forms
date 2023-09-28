@@ -1,0 +1,7 @@
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\bin\Debug\PrjEx05_33574.exe
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\bin\Debug\PrjEx05_33574.pdb
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\obj\x86\Debug\PrjEx05_33574.frmEx05_33574.resources
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\obj\x86\Debug\PrjEx05_33574.Properties.Resources.resources
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\obj\x86\Debug\PrjEx05_33574.csproj.GenerateResource.Cache
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\obj\x86\Debug\PrjEx05_33574.exe
+C:\Users\nicho\OneDrive\Área de Trabalho\Etec\Programação orientada ao objetos\33574\PrjEx05_33574\PrjEx05_33574\obj\x86\Debug\PrjEx05_33574.pdb
